@@ -2,7 +2,9 @@ You should [shift your repositories off github](https://archive.vn/U1R2L), becau
 
 * favours propietary software; 
 * was bought by [GAFAM](https://en.wikipedia.org/wiki/GAFAM), the authoritarian oligopoly; 
-* [violates](https://archive.vn/o/U1R2L/https://help.github.com/en/github/site-policy/github-and-trade-controls) scientific [ethics](https://archive.vn/o/U1R2L/https://council.science/what-we-do/freedoms-and-responsibilities-of-scientists)
+* [violates](https://archive.today/9atnl) scientific [ethics](https://archive.today/ZtNcK)
+* [Give up GitHub: the time has come!](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch) - Software Freedom Conservancy, 2022-06-30
+  * [discussion at ycombinator.com](https://news.ycombinator.com/item?id=31932250)
 
 My own shift is incomplete; you can find several of my git repositories at [Codeberg](https://codeberg.org/boud) .
 
